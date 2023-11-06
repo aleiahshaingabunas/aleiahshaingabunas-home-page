@@ -1,0 +1,92 @@
+<html>
+
+<head>
+	<title> Sweet Delights </title>
+	</head>
+
+<a href="Shoppe Sanctuary.html"> <img src="bro.webp" width="5%" height="8%">
+</p></a>
+
+<body bgcolor=#ffe066>
+	<br>
+
+	</br>
+	<h1><center> <font color=#997300 size=7> Sweet Delights </h1></font></center>
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+
+<center><left><img src="bak.gif" width="310" height="220"></left> 
+<left><img src="bak2.gif" width="310" height="220"></left>
+<left><img src="bak3.gif" width="310" height="220"></left></center>
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+<center><font color=#997300 size=5 face="Courier New"><i><b>At Sweet Delights, we're passionate about creating delicious, <br>beautifully crafted cakes and pastries that cater to your every craving.<br>
+ Whether you're in the mood for a traditional cake, bento cakes, <br>
+or an assortment of flavors that will tantalize your taste buds, <br>
+we have something special for everyone. <br>
+Let's explore our delightful range of offerings:<br></p></center></font></i><br></b>
+
+<center><font color=#997300 size=7> • Classic Cakes • Bento Cakes • Unique Flavors •  </font></center>
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+
+<h1><center> <font color=#997300 size=7> -Classic Cakes- </h1></font></center><br>
+<p><center><font color=#997300 size=5> Our Classic Cakes are a timeless indulgence, perfect for those who appreciate the familiar flavors of traditional desserts. These cakes encompass the essence of tried-and-true recipes, offering a delightful taste of nostalgia. From rich and velvety chocolate fudge cake to the delicate and light vanilla dream cake, our Classic Cakes promise to transport you to a world of sweet memories with each bite.</p></center>
+
+<img src="kik1.png" width="180" height="250"></left> 
+<left><img src="kik2.png" width="170" height="250"></left>
+<left><img src="kik3.png" width="180" height="240"></left>
+<left><img src="kik4.png" width="180" height="240"></left>
+<left><img src="kik5.png" width="190" height="250"></left>
+<left><img src="kik6.png" width="180" height="230"></left>
+<right><img src="kik7.png" width="200" height="200"></right>
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+
+<h1><center> <font color=#997300 size=7> -Bento Cakes- </h1></font></center><br>
+
+
+<p><center><font color=#997300 size=5> Bento Cakes are a delightful fusion of culinary creativity and aesthetic appeal. Inspired by the Japanese bento box concept, these cakes are a visual masterpiece that's almost too pretty to eat. Crafted with layers of colorful sponge cake and unique fillings, our Bento Cakes are a feast for the eyes and the palate. They're perfect for those looking for an Instagram-worthy dessert that's as delectable as it is beautiful.</p></center>
+
+<center><left><img src="kkk1.png" width="230" height="250"></left> </font>
+<left><img src="kkk3.png" width="230" height="240"></left>
+<left><img src="kkk9.png" width="250" height="270"></left>
+<left><img src="kkk6.png" width="210" height="295"></left></center>
+
+
+
+
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+
+<h1><center> <font color=#997300 size=7> -Unique Flavors- </h1></font></center><br>
+<p><center><font color=#997300 size=5> Our Unique Flavors collection is a showcase of innovation in the world of cake baking. These cakes break free from convention and introduce your taste buds to exciting and unconventional combinations. Experience the luscious harmony of Filipino ube and leche flan in our Ube Leche Flan Cake or savor the tropical bliss of our Mango Tango Cheesecake. These Unique Flavors are designed to take your taste buds on a flavorful adventure, providing a fresh and memorable dessert experience.</p></center>
+
+<center><img src="kk1.png" width="220" height="290"><img src="kk2.png" width="200" height="260"></center>
+
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+<p><h1><center> <i><font color=#997300  size=7> Store Information: </i></h1></font></center>
+<p><center><font color=#997300 size=5> <b>Contact us: </b></center>
+<p><center>Visit our website at<i> www.sweetdelights-surigao.com</i></center></p>
+<p><center>09976543210 or 1234-5678 </center></p>
+<p><center><i>raraflowershop@gmail.com </i></center></p>
+<p><center><font color=#997300 size=5><b>In-Person Visits:</b>
+<p><center>12345 Borromeo Street,</center></p>
+<p><center>Surigao City, Surigao del Norte, Philippines </center></p>
+
+<br>
+<hr width=1300 size=7 color=#997300><br>
+At Sweet Delights, we're dedicated to creating the sweetest moments in your life.<br> 
+Whether you're celebrating a special occasion or just satisfying your sweet tooth, <br> 
+we're here to make it memorable. Indulge in the finest cakes and pastries in Surigao City<br> 
+ – order from Sweet Delights today!<br> 
+
+</body>
+</html>

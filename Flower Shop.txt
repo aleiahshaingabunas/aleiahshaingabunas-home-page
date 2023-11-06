@@ -1,0 +1,107 @@
+<html>
+
+<head>
+	<title> RARA's FLOWER SHOP </title>
+	</head>
+
+<body bgcolor=#ffcce6>
+<p>
+<table border=1 cellpadding="15" bgcolor=#e6ac00 width=80%>
+<th><a href="Shoppe Sanctuary.html">BACK</a></th>
+
+<br>
+
+
+
+</br>
+
+		<p><center> <font color=#990033  size=5> Welcome to </h1></font></center>
+		<h1><center> <font color=#990033>  RARA's FLOWER SHOP </h1></font></center>
+		<p><center> <font color=#ff6696 size=5> <i> -everyday florals- </i> </p></font></center>
+
+<hr width=1200 height=800 color=#990030>
+<left><img src="flower1.png" width="180" height="200"></left> 
+<left><img src="flower2.png" width="180" height="200"></left>
+<left><img src="flower3.png" width="180" height="200"></left>
+<left><img src="flower4.png" width="180" height="200"></left>
+<left><img src="flower5.png" width="180" height="200"></left>
+<left><img src="flower6.png" width="180" height="200"></left>
+<right><img src="flower7.png" width="180" height="200"></right>
+
+
+</br>
+<hr width=1200 height=800 color=#990030>
+
+<br>
+	<p><center><i><b> <font color=#990033 size=6> Your one-stop shop for beautiful flowers for all occasions.</i> </b></p> 
+<i><font color=#990033 size=4> Rara's Flower Shop stands out as a top-tier and dependable floral boutique located in Surigao City. Our reputation is built on the excellence of our fresh, high-quality blooms and sophisticated floral arrangements. We offer a diverse selection of flowers suitable for all kinds of occasions, making it easy to find the perfect bouquet for your loved ones. You can conveniently place your order through our online platform or by contacting our friendly customer service team, ensuring a seamless and enjoyable shopping experience.</i></center></p>
+
+<br>
+<p><center><img src="giphy.gif" style="float:center" width="500" height="300"></p></center></br>
+
+
+
+
+<br>
+<right><hr width=500 height=500 color=#990030></right>
+<br>
+<h1><center> <font color=#990033> FLOWER COLLECTIONS </h1></font></center>
+<p><center><i><font color=#990033 size=5>Explore our wide selection of flowers and floral arrangements. 
+		Whether you need a bouquet for a birthday, anniversary, or just to brighten someone's day, we have the 			perfect flowers for you.</center></p></i>
+<p><b><u><center> <font color=#990033  size=5> Categories</u></b> </font></center>
+
+<p><center><font color=#990033  size=4> -Roses</center>
+<p><center><font color=#990033  size=4> -Tulips</center>
+<p><center><font color=#990033  size=4> -Sunflowers</center>
+<p><center><font color=#990033  size=4> -Gerberas & Carnations</center>
+<p><center><font color=#990033  size=4> -Stargazers & Lisianthus</center>
+<p><center><font color=#990033  size=4> -Dried Flowers & Fresh Fillers</center>
+</p>
+<br>
+<hr width=1200 height=800 color=#990030>
+<br>
+<p><center> <i><font color=#990033  size=7> Roses </i></h1></font></center>
+<center><img src="roses1.png"  width="180" height="200">
+<img src="roses2.png" width="180" height="200">
+<img src="roses3.png" width="180" height="200">
+<img src="roses4.png" width="180" height="200">
+<img src="roses5.png" width="180" height="200">
+<img src="roses6.png" width="180" height="200"></center>
+
+<br>
+<p><center> <i><font color=#990033  size=7> Tulips </i></h1></font></center>
+<center><img src="tulips1.png"  width="220" height="240">
+<img src="tulips2.png"  width="200" height="220">
+<img src="tulips3.png"  width="200" height="220"></p></center>
+
+<br>
+<p><center> <i><font color=#990033  size=7> Sunflowers </i></h1></font></center>
+<p><center><img src="sun1.png"  width="220" height="240"><img src="sun2.png"  width="220" height="240"></center></p>
+
+<br>
+<p><center> <i><font color=#990033  size=7> Gerberas & Carnations </i></h1></font></center>
+<p><center><img src="gerb1.png"  width="220" height="240"><img src="gerb2.png"  width="220" height="240"></center></p>
+
+
+<br>
+<p><center> <i><font color=#990033  size=7> Stargazers & Lisianthus </i></h1></font></center>
+<p><center><img src="star1.png"  width="220" height="240"><img src="star2.png"  width="220" height="240"><img src="star3.png"  width="220" height="240"></center></p>
+
+
+<br>
+<p><center> <i><font color=#990033  size=7> Dried Flowers & Fresh Fillers </i></h1></font></center>
+<p><center><img src="dried4.png"  width="220" height="240"><img src="dried1.png"  width="220" height="240"><img src="dried5.png"  width="220" height="240"><img src="dried2.png"  width="220" height="240"><img src="dried3.png"  width="220" height="240"></center></p>
+
+<br>
+<hr width=1200 height=800 color=#990030>
+<p><h1><center> <i><font color=#990033  size=7> Store Information: </i></h1></font></center>
+<p><center><font color=#990033 size=5> Contact us </center>
+<p><center>12345 Borromeo Street,</center></p>
+<p><center>Surigao City, Surigao del Norte, Philippines </center></p>
+<p><center>09976543210 or 1234-5678 </center></p>
+<p><center><i>raraflowershop@gmail.com </i></center></p>
+
+
+
+</body>
+</html>

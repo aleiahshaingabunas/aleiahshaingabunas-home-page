@@ -1,0 +1,47 @@
+<html>
+
+<head>
+	<title> MY FIRST WEBPAGE </title>
+	</head>
+
+<body bgcolor=#808080>
+	<center>Very little is needed to make a happy life. It is all within your self, in yuor way of thinking.</center>
+
+	<h1><center> <font color=FFFFFF> ST. PAUL UNIVERSITY SURIGAO </h1></font></center>
+	<h2><center> <font color=#0000A0>ST. PAUL UNIVERSITY SURIGAO </h2></font></center>
+	<h3><center> <font color=#0000FF>ST. PAUL UNIVERSITY SURIGAO </h3></font></center>
+	<h4><center> <font color=#C0C0C0>ST. PAUL UNIVERSITY SURIGAO </h4></font></center>
+	<h5><center> ST. PAUL UNIVERSITY SURIGAO </h5></center>
+	<h6><center> ST. PAUL UNIVERSITY SURIGAO </h6></center>
+
+<hr width=1000 height=600 color=black noshade>
+<center><img src="kopi.jpg" width="450" height="350"></center>
+
+<hr width=1000 height=600 color=black noshade>
+<center><img src="kkopi.jpg" style="float:right" width="300" height="200"></center>
+	
+	<p>
+	<dd> All we are is the result of what we have thought. The mind is everything. Genggeng genggeng genggeng eyyyyy mico chan happy birthday so much                           ahahaahahahahahahahahahha
+	<p>
+	    All we are is the result of what we have thought. The mind is everything. Genggeng genggeng genggeng eyyyyy mico chan happy birthday so much                            ahahaahahahahahahahahahha
+	<p>
+	    All we are is the result of what we have thought. The mind is everything. Genggeng genggeng genggeng eyyyyy mico chan happy birthday so much                            ahahaahahahahahahahahahha
+	<p>
+	   All we are is the result of what we have thought. The mind is everything. Genggeng genggeng genggeng eyyyyy mico chan happy birthday so much                            ahahaahahahahahahahahahha
+	
+
+<hr width=1000 height=600 color=black noshade>
+<center><img src="kkoppi.jpg" style="float:left" width="400" height="200"></center>
+	<p>
+	<font color=#0000A0 size=4 face="Times New Roman"> 
+	<center><b>Alleluia</b>
+	<i><u>Blessed is the one who fears the Lord <br> </u></i>
+	Who greatly delights in <i>His</i> commands <br>
+	<b>His children will be powerful on earth <br></b>
+	The upright's offspring will be pleased.<br> 
+	</p></font></center>
+
+
+
+</body>
+</html>
